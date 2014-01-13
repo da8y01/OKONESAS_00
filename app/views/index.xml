@@ -1,0 +1,8 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<TextField id="txtEmail" hintText="Ingresar email"></TextField>
+		<TextField id="txtPass" hintText="Ingresar contraseña" passwordMask="true"></TextField>
+		<Button id="btnLogin">Entrar</Button>
+		<Button id="btnExit">Salir</Button>
+	</Window>
+</Alloy>
